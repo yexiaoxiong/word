@@ -1,0 +1,16 @@
+{
+    "name": "yexiaoxiong/word",
+    "authors": [
+        {
+            "name": "yexiaoxiong",
+            "email": "1678326574@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hexin\\Project\\":"src/"
+        }
+    }
+}
